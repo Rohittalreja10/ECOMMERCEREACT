@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "name":"casual",
+        "price":109,
+        "image":"image/casual.jpeg"
+    },
+    {
+        "id":2,
+        "name":"jacket",
+        "price":200,
+        "image":"image/jacket.jpeg"
+    },
+    {
+        "id":3,
+        "name":"inner",
+        "price":150,
+        "image":"image/inner.jpeg"
+    }
+]
